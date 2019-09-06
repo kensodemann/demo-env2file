@@ -9,6 +9,7 @@
   ],
   "exclude": [
     "src/test.ts",
+    "src/**/*.prod.ts",
     "src/**/*.spec.ts"
   ]
 }
